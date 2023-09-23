@@ -1,4 +1,4 @@
-## OLÁ! EU SOU EVAN JUNIOR
+## DEV FULLSATCK AND MOBLIE IN KOTLIN
 
 <!--
 **Evanjr73/Evanjr73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
