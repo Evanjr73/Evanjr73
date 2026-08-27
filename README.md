@@ -1,6 +1,5 @@
-# Hi there, I'm Evan! 👋
 
-### 👨‍💻 Full Stack & Mobile Developer
+### 👨‍💻 SOFTWARE ENGINEER
 
 - 🚀 Focused on the **Kotlin / Android** ecosystem and modern web development.
 - 💡 Passionate about building intuitive interfaces, scalable systems, and clean code.
